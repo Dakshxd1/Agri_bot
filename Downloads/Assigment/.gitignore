@@ -1,0 +1,4 @@
+.env
+my_chroma_store/
+*.sqlite3
+*.pdf
